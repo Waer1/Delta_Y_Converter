@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Delta_Y_Converter/static/css/main.bc81e7a1.chunk.css",
+    "main.js": "/Delta_Y_Converter/static/js/main.d72cd58e.chunk.js",
+    "main.js.map": "/Delta_Y_Converter/static/js/main.d72cd58e.chunk.js.map",
+    "runtime-main.js": "/Delta_Y_Converter/static/js/runtime-main.52eecae2.js",
+    "runtime-main.js.map": "/Delta_Y_Converter/static/js/runtime-main.52eecae2.js.map",
+    "static/js/2.7ebd5622.chunk.js": "/Delta_Y_Converter/static/js/2.7ebd5622.chunk.js",
+    "static/js/2.7ebd5622.chunk.js.map": "/Delta_Y_Converter/static/js/2.7ebd5622.chunk.js.map",
+    "static/js/3.324d86b7.chunk.js": "/Delta_Y_Converter/static/js/3.324d86b7.chunk.js",
+    "static/js/3.324d86b7.chunk.js.map": "/Delta_Y_Converter/static/js/3.324d86b7.chunk.js.map",
+    "index.html": "/Delta_Y_Converter/index.html",
+    "static/css/main.bc81e7a1.chunk.css.map": "/Delta_Y_Converter/static/css/main.bc81e7a1.chunk.css.map",
+    "static/js/2.7ebd5622.chunk.js.LICENSE.txt": "/Delta_Y_Converter/static/js/2.7ebd5622.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52eecae2.js",
+    "static/js/2.7ebd5622.chunk.js",
+    "static/css/main.bc81e7a1.chunk.css",
+    "static/js/main.d72cd58e.chunk.js"
+  ]
+}
