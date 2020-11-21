@@ -1,0 +1,36 @@
+.container{
+    margin: 20px 30%;
+    border-radius: 20px;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.container section, .container button{
+    margin-top: 20px;
+}
+
+#box{
+    border: 2px #000;
+}
+
+#clear{
+    clear: both;
+}
+
+.explain {
+    margin-bottom: 50px;
+    margin: 20px 34%;
+}
+.equations{
+    margin: 10px 32% 0px 32%;
+}
+
+.equations img {
+    margin: 10px;
+}
