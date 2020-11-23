@@ -10,4 +10,6 @@ you will git the result in th eright side
 
 
 * you git error if you enter 0 value of negative values for any R
+
+
 *any change or implement will happen after press calc 
