@@ -9,4 +9,4 @@ you will git the result in th eright side
 you will git the result in th eright side 
 
 
-* you git error id you enter 0 value of negative values for any R
+* you git error if you enter 0 value of negative values for any R
